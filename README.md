@@ -20,3 +20,7 @@ An interactive Power BI dashboard tracking sales performance, customer metrics, 
 
 ## 🔗 Project Repository
 * [View GitHub Repository](https://github.com/Delight394/Semusim-Dashboard)
+
+## 📊 Dashboard Preview
+![Dashboard Preview 1](Screenshot%202026-10-17%20045813.png)
+![Dashboard Preview 2](Screenshot%202026-10-17%20045831.png)
