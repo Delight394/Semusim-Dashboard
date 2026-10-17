@@ -18,5 +18,5 @@ An interactive Power BI dashboard tracking sales performance, customer metrics, 
 * `sales_data_sample.csv` - Source dataset
 * `README.md` - Project documentation
 
-* ## 🔗 Live Report Link
-[View Interactive Power BI Dashboard](YOUR_POWER_BI_WEB_LINK_HERE)
+## 🔗 Project Repository
+* [View GitHub Repository](https://github.com/Delight394/Semusim-Dashboard)
